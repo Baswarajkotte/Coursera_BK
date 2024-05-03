@@ -9,4 +9,7 @@ mkdir site: to make a new dir in the specified path.
 git add .: to add all files from specified path, else 
     git add "file name".
 git commit -m "message."
-git push: to push the code to github. 
+git push: to push the code to Git Hub. 
+
+Website to practice HTML CSS JS:
+JSFiddle.net & codepen.io...
